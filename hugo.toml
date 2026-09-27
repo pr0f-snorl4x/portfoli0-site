@@ -1,0 +1,33 @@
+baseURL = "https://compassionate-weirdo.com/"
+languageCode = "en-us"
+title = "Compassionate Weirdo"
+theme = "hugo-profile"
+
+[params]
+title = "Compassionate Weirdo"
+description = "Official site of Compassionate Weirdo. Launching soon."
+
+[params.hero]
+enable = true
+intro = "Welcome to"
+title = "Compassionate Weirdo"
+subtitle = "Something new is in the works. Launching soon."
+image = ""
+
+[params.hero.bottomImage]
+enable = false
+
+[params.about]
+enable = false
+
+[params.experience]
+enable = false
+
+[params.projects]
+enable = false
+
+[params.achievements]
+enable = false
+
+[params.contact]
+enable = false
